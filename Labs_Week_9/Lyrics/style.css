@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to right, red, orange, yellow, green, violet, indigo, blue);
+}
+#main-container {
+    max-width: 500px;
+    margin: auto;
+}
