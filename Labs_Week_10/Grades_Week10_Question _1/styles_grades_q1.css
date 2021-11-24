@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(138, 143, 143);
+    margin: 150px 30px;
+    text-align: center;
+    box-sizing: border-box;
+    color: #ffffff;
+}
+button{
+    border-color: #f7770f;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #f7770f;
+    border-style: dashed;
+    
+}
+button:hover{
+    transform: scale(1.1);
+    transition: ease-in-out;
+}
